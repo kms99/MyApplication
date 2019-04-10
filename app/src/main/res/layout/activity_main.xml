@@ -62,7 +62,7 @@
             android:layout_width="270dp"
             android:layout_height="25dp"
             android:layout_marginStart="10dp"
-            android:text="공지사항" />
+            android:text="공지사항1" />
     </LinearLayout>
 
     <LinearLayout
